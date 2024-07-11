@@ -163,3 +163,6 @@ cython_debug/
 
 /notebooks
 /app/scripts/DJ*
+/app/train_result
+/app/training_jsons
+/app/image_processing/image_saved
